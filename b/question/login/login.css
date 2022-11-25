@@ -1,0 +1,34 @@
+#form{
+    position: relative;
+    TOP:20%;
+    left:20%;
+    width:55%;
+    padding: 3%;
+    background: rgba(56, 56, 87, 0.582);
+    
+    border-radius:20px;
+}
+.ema{
+    position: relative;
+    width:78%;
+    background: white;
+    TOP:40%; 
+    left:20%;
+    border-radius:20px;
+    color: rgb(8, 8, 8);
+    
+}
+.password{
+    position: relative;
+    width:70%;
+    background: white;
+    TOP:40%; 
+    left:10%;
+    border-radius:20px;
+    color: rgb(8, 8, 8);
+    
+}
+#h3{
+    font-size: 40px;
+    text-align: center;
+}

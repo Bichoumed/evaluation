@@ -1,0 +1,44 @@
+body {
+    margin:0px;
+    padding:0px;
+}
+table {
+    margin: 0px auto;
+    margin:auto;
+   
+}
+  p{
+    color:black;
+    font-size:30px;
+    line-height: 50%;
+    padding: 10px;
+   
+  }
+  .button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #008080;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-bottom: 2%;
+  }
+  
+  .button:hover {background-color: #008080}
+  
+  .button:active {
+    background-color: #008080;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  input[type=radio] {
+    border: 0px;
+    width: 40px;
+    height: 20px;
+}

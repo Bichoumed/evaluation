@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+
+}
+.section{
+    width: 100%;
+    min-height: 100%;
+    background-color: #ddd;
+
+
+}
+.container{
+    width: 80%;
+    display: flex;
+    margin: auto;
+    padding-top: 200px;
+}
+.i {
+    display:flex;  
+  }
+  
+  .btn{
+    border-radius:50%;
+    width:25%;
+  
+  }
