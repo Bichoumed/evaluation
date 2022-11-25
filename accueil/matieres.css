@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mat {
+   text-align: center;
+   border-bottom: 2px solid  #08546c;
+   padding: 2%;
+}
+#module{
+    background-color: #08546c;
+    color:white;
+   text-align: center;
+}
+#mati{
+    background-color: #A0BACC;
+    color: #A0BACC;
+    float: right;
+}
+.go{
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+   
+
+}
+.card-body{
+    background-color: rgba(102, 102, 102, 0.415);
+}
