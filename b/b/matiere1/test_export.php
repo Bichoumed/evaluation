@@ -3,6 +3,7 @@
  session_start();
     $matiere=$_SESSION['matiere'];
     $Nom_matiere=$_SESSION['Nom_matiere'];
+    $_POST['hidden'] ;
     ?>
     <!DOCTYPE html>
     <html>
